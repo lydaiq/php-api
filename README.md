@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](https://www.thinkphp.cn/uploads/images/20230630/300c856765af4d8ae758c503185f8739.png)
 
 ThinkPHP 8.0
@@ -74,3 +75,7 @@ ThinkPHP遵循Apache2开源协议发布，并提供免费使用。
 ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
+=======
+# php-api
+php后端接口，给前端提供服务
+>>>>>>> 6461465047b81bba2628249848f7030709344730
